@@ -1,0 +1,31 @@
+body {
+    background: #262626;
+    color: #fff;
+}
+.home {
+    display: flex;
+    height: 90vh;
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.header-text {
+    margin-top: 8%;
+    font-size: 30px;
+    margin-left: 15%;
+}
+
+.header-text h1 {
+    font-size: 60px;
+}
+
+.header-text span {
+    color: #ff004f;
+}
+
+.header-text p {
+    font-size: 20px;
+}
