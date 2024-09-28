@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ws101-vinas-navbar/static/css/main.a5464709.css",
+    "main.js": "/ws101-vinas-navbar/static/js/main.2a7fcdf4.js",
+    "static/media/fa-solid-900.ttf": "/ws101-vinas-navbar/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/ws101-vinas-navbar/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/ws101-vinas-navbar/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/ws101-vinas-navbar/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/bg.png": "/ws101-vinas-navbar/static/media/bg.d53c282c6159c59dee3c.png",
+    "static/media/fa-regular-400.ttf": "/ws101-vinas-navbar/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/logo.png": "/ws101-vinas-navbar/static/media/logo.024ec58569a1a6761840.png",
+    "static/media/fa-regular-400.woff2": "/ws101-vinas-navbar/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/img.jpg": "/ws101-vinas-navbar/static/media/img.9238d60c7e5c274212c8.jpg",
+    "static/media/image.png": "/ws101-vinas-navbar/static/media/image.65ea945efcb4a06d22c7.png",
+    "static/media/fa-v4compatibility.ttf": "/ws101-vinas-navbar/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ws101-vinas-navbar/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/ws101-vinas-navbar/index.html",
+    "main.a5464709.css.map": "/ws101-vinas-navbar/static/css/main.a5464709.css.map",
+    "main.2a7fcdf4.js.map": "/ws101-vinas-navbar/static/js/main.2a7fcdf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5464709.css",
+    "static/js/main.2a7fcdf4.js"
+  ]
+}
